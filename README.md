@@ -8,7 +8,7 @@ The through-line: start with the raw primitives (files, JSON, process arguments)
 
 | Project | What it is | Stack |
 |---|---|---|
-| [`p1/`](./p1) | CLI todo list backed by a JSON file — argument parsing, CRUD, and file persistence | Node.js (no dependencies) |
+| [`p1/`](./p1) | CLI todo list backed by a JSON file — argument parsing, CRUD, and file persistence · [brief](https://roadmap.sh/projects/task-tracker) | Node.js (no dependencies) |
 
 ## Conventions
 

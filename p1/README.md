@@ -1,5 +1,7 @@
 # p1 — CLI Todo List
 
+> Project brief: **https://roadmap.sh/projects/task-tracker**
+
 A small command-line todo manager built with plain Node.js. Todos are stored in a local JSON file (`db/data.json`), so state survives between runs. No dependencies, no database, no server.
 
 This is a learning project from the *Fundamentals of Backend* track — the goal is to work through file I/O, JSON persistence, and argument parsing before moving on to HTTP APIs and real databases.
